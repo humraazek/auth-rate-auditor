@@ -1,0 +1,5 @@
+# Core simulator functionality uses the Python standard library (no external dependencies required).
+# Tested on Python 3.9+ through Python 3.14.
+
+# Optional dependencies for extended audits:
+# requests>=2.31.0
